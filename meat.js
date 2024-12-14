@@ -200,7 +200,7 @@ let userCommands = {
   } else {
     this.socket.emit('commandFail', { reason: "runlevel" });
   }
-}
+},
 "announce": function(message) {
   if (this.private.runlevel >= 3) {
     this.room.emit("announcement", {
