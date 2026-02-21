@@ -1,6 +1,7 @@
 # BonziWORLD
 This project is still W.I.P.
-If you want to fork this, ust try to put me somewhere in the credits.
+
+If you want to fork this, just try to put me somewhere in the credits.
 
 ## Dependencies
 - Node.js and npm
