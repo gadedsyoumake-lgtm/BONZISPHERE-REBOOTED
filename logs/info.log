@@ -1655,3 +1655,9 @@
 {"guid":"8f9b3026a98a5a76","level":"info","message":"login"}
 {"error":{"errno":-5,"code":"EIO","syscall":"read"},"level":"error","message":"uncaughtException: read EIO\nError: read EIO","stack":"Error: read EIO","exception":true,"date":"Sun Nov 12 2023 13:44:12 GMT+0000 (Coordinated Universal Time)","process":{"pid":317,"uid":1000,"gid":1000,"cwd":"/home/runner/BonziWORLD-Two-Remake-V3","execPath":"/nix/store/ra8r42571xvv1m85wanh1ll9mxmp0mwl-nodejs-16.13.2/bin/node","version":"v16.13.2","argv":["/nix/store/ra8r42571xvv1m85wanh1ll9mxmp0mwl-nodejs-16.13.2/bin/node","/tmp/prybar-nodejs-552155306.js"],"memoryUsage":{"rss":56406016,"heapTotal":17231872,"heapUsed":13860360,"external":3432573,"arrayBuffers":646728}},"os":{"loadavg":[15.17,15.66,15.16],"uptime":46494.43},"trace":[]}
 {"guid":"0039b50682da6e0f","level":"info","message":"login"}
+{"guid":"151efbd3561129b0","level":"info","message":"login"}
+{"guid":"3660bf85de2751b2","level":"info","message":"login"}
+{"guid":"f3cd9b7e6dea61df","level":"info","message":"login"}
+{"guid":"6d071486681ddeb0","level":"info","message":"login"}
+{"guid":"dbfae64e2c1e13ee","level":"info","message":"login"}
+{"guid":"821507022d3dbd00","level":"info","message":"login"}
